@@ -1,0 +1,8 @@
+/Users/Ingve/Documents/git/fsharptesting/FSLib/bin/Debug/netstandard2.0/FSLib.deps.json
+/Users/Ingve/Documents/git/fsharptesting/FSLib/bin/Debug/netstandard2.0/FSLib.dll
+/Users/Ingve/Documents/git/fsharptesting/FSLib/bin/Debug/netstandard2.0/FSLib.pdb
+/Users/Ingve/Documents/git/fsharptesting/FSLib/obj/Debug/netstandard2.0/FSLib.fsprojAssemblyReference.cache
+/Users/Ingve/Documents/git/fsharptesting/FSLib/obj/Debug/netstandard2.0/FSLib.AssemblyInfoInputs.cache
+/Users/Ingve/Documents/git/fsharptesting/FSLib/obj/Debug/netstandard2.0/FSLib.AssemblyInfo.fs
+/Users/Ingve/Documents/git/fsharptesting/FSLib/obj/Debug/netstandard2.0/FSLib.dll
+/Users/Ingve/Documents/git/fsharptesting/FSLib/obj/Debug/netstandard2.0/FSLib.pdb

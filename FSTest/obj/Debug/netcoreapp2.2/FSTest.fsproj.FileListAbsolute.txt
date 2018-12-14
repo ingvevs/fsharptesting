@@ -1,0 +1,16 @@
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/FSTest.deps.json
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/FSTest.runtimeconfig.json
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/FSTest.runtimeconfig.dev.json
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/FSTest.dll
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/FSTest.pdb
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/FSLib.dll
+/Users/Ingve/Documents/git/fsharptesting/FSTest/bin/Debug/netcoreapp2.2/FSLib.pdb
+/Users/Ingve/Documents/git/fsharptesting/FSTest/obj/Debug/netcoreapp2.2/FSTest.fsprojAssemblyReference.cache
+/Users/Ingve/Documents/git/fsharptesting/FSTest/obj/Debug/netcoreapp2.2/FSTest.AssemblyInfoInputs.cache
+/Users/Ingve/Documents/git/fsharptesting/FSTest/obj/Debug/netcoreapp2.2/FSTest.AssemblyInfo.fs
+/Users/Ingve/Documents/git/fsharptesting/FSTest/obj/Debug/netcoreapp2.2/FSTest.fsproj.CopyComplete
+/Users/Ingve/Documents/git/fsharptesting/FSTest/obj/Debug/netcoreapp2.2/FSTest.dll
+/Users/Ingve/Documents/git/fsharptesting/FSTest/obj/Debug/netcoreapp2.2/FSTest.pdb
